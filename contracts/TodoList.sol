@@ -23,7 +23,7 @@ contract TodoList {
   );
 
   constructor() public {
-    createTask("Check out dappuniversity.com");
+    createTask("Pranav is really talanted Instructor");
   }
 
   function createTask(string memory _content) public {
